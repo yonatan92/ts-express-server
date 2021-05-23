@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    // "outDir": "./dist",
+    // "rootDir": "./src",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+  },
+  // "linterOptions": {
+  //   "exclude": [
+  //     "dist",
+  //     "node_modules"
+  //   ]
+  // }
+}

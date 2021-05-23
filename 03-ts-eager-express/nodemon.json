@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ignore": ["src/**/*.test.ts","src/**/*.spec.ts"],
+    "ext": "ts,mjs,js,json",
+    "exec": "node -r dotenv/config -r ts-eager/register src/server/api.ts",
+    "legacyWatch": true
+  }
